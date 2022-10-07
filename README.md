@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hilary Ho (@jhho89)
-- 👀 I’m interested in databases especially cloud-based SQL/NoSQL
+- 👀 I’m interested in databases especially cloud native SQL/NoSQL
 - 🌱 I’m currently learning Docker and Kubernetes
 - 💞️ I’m looking for learning buddy on Kubernetes
 - 📫 I'm reachable via hilary@fireflies.ai
